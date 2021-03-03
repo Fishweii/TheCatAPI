@@ -1,0 +1,50 @@
+body {
+    background-color: seashell;
+}
+
+.container {
+    background-color: #f8f8f8;
+    width: 70%;
+    text-align: center;
+    margin: 5% auto;
+    margin-top: 10px;
+}
+
+.navbar {
+    display: flex;
+    font-size: 24px;
+    background-color: skyblue;
+    justify-content: space-around;
+}
+
+#catImg {
+    max-width: 80%;
+    max-height: 600px;
+}
+
+#breeds {
+    display: none;
+}
+
+#breed {
+    font-size: 20px;
+    width: 50%;
+    margin: 30px 0;
+}
+
+.breedsDetail {
+    width: 100%;
+}
+
+#breedsImg {
+    max-width: 80%;
+    max-height: 600px;
+    margin-bottom: 25px;
+}
+
+#descript {
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+}
+
